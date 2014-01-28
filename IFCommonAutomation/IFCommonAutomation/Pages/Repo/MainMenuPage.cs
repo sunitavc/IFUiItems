@@ -4,9 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ArtOfTest.WebAii.Silverlight;
-using IFCommonAutomation.Pages;
 
-namespace IFCommonAutomation.Repo.Pages
+namespace IFCommonAutomation.Pages.Repo
 {
     internal class MainMenuPage : BasePage
     {

@@ -1,18 +1,18 @@
 ﻿using System;
-using IFCommonAutomation.Pages;
+using IFCommonAutomation.Pages.Repo;
 
 namespace IFCommonAutomation.Pages.Actions
 {
-    class MainMenuActions : MainMenu
+    class MainMenuActions : MainMenuPage
     {
         public void HoverOverMenuLink(string itemName)
         {
-            MnuLink(itemName).User.HoverOver();
+            HoverOverLink(MnuLink(itemName));
         }
 
-        public void ClickMenuLink(string itemName)
+        public void SelectMenuLink(string itemName)
         {
-            MnuLink(itemName).User.Click();
+            ClickLink(MnuLink(itemName));    
         }
     }
 }

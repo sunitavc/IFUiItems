@@ -1,0 +1,10 @@
+D:\mckinsey\IFUiItems\IFCommonAutomation\IFCommonAutomation\bin\Debug\IFCommonAutomation.dll.config
+D:\mckinsey\IFUiItems\IFCommonAutomation\IFCommonAutomation\bin\Debug\IFCommonAutomation.dll
+D:\mckinsey\IFUiItems\IFCommonAutomation\IFCommonAutomation\bin\Debug\IFCommonAutomation.pdb
+D:\mckinsey\IFUiItems\IFCommonAutomation\IFCommonAutomation\bin\Debug\ArtOfTest.WebAii.dll
+D:\mckinsey\IFUiItems\IFCommonAutomation\IFCommonAutomation\bin\Debug\nunit.framework.dll
+D:\mckinsey\IFUiItems\IFCommonAutomation\IFCommonAutomation\bin\Debug\ArtOfTest.WebAii.xml
+D:\mckinsey\IFUiItems\IFCommonAutomation\IFCommonAutomation\bin\Debug\nunit.framework.xml
+D:\mckinsey\IFUiItems\IFCommonAutomation\IFCommonAutomation\obj\Debug\IFCommonAutomation.csprojResolveAssemblyReference.cache
+D:\mckinsey\IFUiItems\IFCommonAutomation\IFCommonAutomation\obj\Debug\IFCommonAutomation.dll
+D:\mckinsey\IFUiItems\IFCommonAutomation\IFCommonAutomation\obj\Debug\IFCommonAutomation.pdb
