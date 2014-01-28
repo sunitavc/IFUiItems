@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ArtOfTest.WebAii.Silverlight;
+using IFCommonAutomation.Pages;
 
-namespace IFCommonAutomation.Pages
+namespace IFCommonAutomation.Repo.Pages
 {
-    internal class MainMenu : BasePage
+    internal class MainMenuPage : BasePage
     {
 //        protected FrameworkElement menuBar
 //        {

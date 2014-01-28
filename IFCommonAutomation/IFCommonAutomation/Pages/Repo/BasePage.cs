@@ -11,7 +11,7 @@ using ArtOfTest.WebAii.Controls.Xaml;
 using ArtOfTest.WebAii.Core;
 using ArtOfTest.WebAii.Silverlight;
 
-namespace IFCommonAutomation.Pages
+namespace IFCommonAutomation.Pages.Repo
 {
     class BasePage
     {
