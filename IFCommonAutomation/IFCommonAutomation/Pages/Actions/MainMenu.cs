@@ -3,7 +3,7 @@ using IFCommonAutomation.Pages.Repo;
 
 namespace IFCommonAutomation.Pages.Actions
 {
-    class MainMenuActions : MainMenuPage
+    class MainMenuActions : BaseActions
     {
         public void HoverOverMenuLink(string itemName)
         {

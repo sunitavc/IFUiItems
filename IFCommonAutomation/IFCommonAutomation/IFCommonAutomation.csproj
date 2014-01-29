@@ -49,9 +49,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Pages\Actions\BaseActions.cs" />
+    <Compile Include="Pages\Actions\ControlZone.cs" />
     <Compile Include="Pages\Actions\MainMenu.cs" />
     <Compile Include="Pages\Actions\Storyboard.cs" />
     <Compile Include="Pages\Repo\BasePage.cs" />
+    <Compile Include="Pages\Repo\ControlZonePage.cs" />
     <Compile Include="Pages\Repo\StoryboardPage.cs" />
     <Compile Include="Pages\Repo\MainMenuPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
